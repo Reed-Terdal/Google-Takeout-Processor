@@ -1,6 +1,8 @@
 # Google-Takeout-Processor
 Utilities for unpacking a Google Takeout archive
 
+[link to create a takeout](https://takeout.google.com/settings/takeout "Download your data")
+
 ---
 ## Parser.js
 This program parses the Android activity file that can be found in your Google Takeout.
