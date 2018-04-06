@@ -1,0 +1,7 @@
+{
+  "name": "htmlParsing",
+  "version": "0.0.1",
+  "dependencies": {
+    "htmlparser2": "^3.9.2"
+  }
+}
